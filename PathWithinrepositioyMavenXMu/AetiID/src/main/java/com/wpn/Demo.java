@@ -8,6 +8,7 @@ public class Demo {
 		
 		
 		System.out.println("main"); //master  
+
 	}
 
 }
